@@ -12,10 +12,10 @@ const Footer = () => {
         
       </span>
       <div className="iconContainer">
-        <a href="https://www.instagram.com/roadsidecoder/" target="__blank">
+        <a href="https://www.instagram.com/neerajv_21/" target="__blank">
           <i className="fab fa-instagram-square fa-2x"></i>
         </a>
-        <a href="https://www.linkedin.com/in/piyush-eon" target="__blank">
+        <a href="https://www.linkedin.com/in/neerajverma2000" target="__blank">
           <i className="fab fa-linkedin fa-2x"></i>
         </a>
       
